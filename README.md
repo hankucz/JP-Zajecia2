@@ -17,6 +17,6 @@ Wymagane jest wykonanie przynajmniej trzech zadań obejmujących tematykę zbior
 10. Stwórz klasę reprezentującą samochód z polami, takimi jak marka, model i rok produkcji. Napisz komparator, który sortuje samochody najpierw według marki, a następnie według modelu. Stwórz listę samochodów i posortuj ją za pomocą tego komparatora. Wyświetl posortowaną listę.
   * Rozwiń zadanie, aby tym razem użyć niestandardowego komparatora, który sortuje samochody na podstawie rocznika od najstarszego do najnowszego. Wyświetl wynik i porównaj go z poprzednim.
 11. Stwórz klasę reprezentującą rzekę. Rzeka ma nazwę w języku polskim, niemieckim i czeskim, nazwę rzeki, do której wpływa oraz przebieg (pole typu String). Następnie stwórz kolekcję (typ do samodzielnego wyboru) umożliwiającą przechowywanie rzek i wyświetlanie ich w zadanym porządku (wg. języka nazw).
-  *przebieg jest kolekcją punktów (double lat,lon;), a nie opisem słownym
-  *zaproponuj rozwiązanie umożliwiające wyświetlanie bez konieczności każdorazowego sortowania przy zmianie języka
-  *dodaj możliwość filtracji rzek umożliwiając wyświetlanie dorzecza danej rzeki
+    * przebieg jest kolekcją punktów (double lat,lon;), a nie opisem słownym
+    * zaproponuj rozwiązanie umożliwiające wyświetlanie bez konieczności każdorazowego sortowania przy zmianie języka
+    * dodaj możliwość filtracji rzek umożliwiając wyświetlanie dorzecza danej rzeki

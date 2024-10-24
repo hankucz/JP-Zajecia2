@@ -1,5 +1,7 @@
 # JP-Zajecia2
 Języki Programowania: Zajęcia nr 2 - Kolekcje w Javie
+
+
 Polecenie:
 Wymagane jest wykonanie przynajmniej trzech zadań obejmujących tematykę zbiorów, list i map. Każde zadanie powinno implementować inny rodzaj kolekcji.
 1. Zaimplementuj program, który przyjmuje od użytkownika ciąg liczb i przechowuje je w zbiorze typu HashSet i TreeSet. Następnie wyświetl różnice między HashSet a TreeSet w kontekście kolejności elementów.

@@ -1,3 +1,6 @@
+//Zaprojektuj klasę reprezentującą produkt z identyfikatorem (np. numerem seryjnym) i ceną.
+//Zaimplementuj nadpisywanie metod equals() i hashCode(). Następnie stwórz zbiór HashSet i dodaj kilka produktów.
+//Spróbuj dodać ten sam produkt ponownie i zobacz, jakie będą wyniki.
 import java.util.HashSet;
 
 public class Main {

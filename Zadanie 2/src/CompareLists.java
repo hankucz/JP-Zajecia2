@@ -1,3 +1,5 @@
+// Stwórz program, który dodaje, usuwa i modyfikuje elementy w dwóch listach typu ArrayList i LinkedList.
+// Następnie zmierz czas wykonywania tych operacji i porównaj wyniki.
 import java.util.ArrayList;
 import java.util.LinkedList;
 

@@ -1,3 +1,5 @@
+//Stwórz aplikację, która umożliwia użytkownikowi przechowywanie par klucz-wartość w mapie typu HashMap i TreeMap.
+// Po dodaniu kilku elementów, zwróć uwagę na różnice w kolejności kluczy w obu mapach.
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
